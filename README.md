@@ -2,14 +2,14 @@
 ### Hi there 👋, I am Hasan Ali<hr/>
 A software engineer, creative coder who specializes in full stack web development. I love to solve real world problems. I have completed some projects for getting  good job. I am passionate web developer. I love to learn and share my knowledge with others. I can take any challenge for learning new thing. I am ready to start working on your project. Client satisfaction is my best priority.
 ### Skills & Experience<hr/>
-✔ Javascript
-✔ Nodejs
-✔ React js
-✔ Typescript
-✔ PHP / Laravel
-✔ MongoDB / MySql / PostgreSQL
-✔ Mongoose / TypeORM / Sequelize
-✔ HTML / CSS / Bootstrap 
+✔ Javascript<br>
+✔ Nodejs<br>
+✔ React js<br>
+✔ Typescript<br>
+✔ PHP / Laravel<br>
+✔ MongoDB / MySql / PostgreSQL<br>
+✔ Mongoose / TypeORM / Sequelize<br>
+✔ HTML / CSS / Bootstrap<br> 
 
 - 🔭 I’m currently working on this page. 
 
