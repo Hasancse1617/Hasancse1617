@@ -1,6 +1,6 @@
 ![I am passionate full stack web developer](https://media-exp1.licdn.com/dms/image/C4E16AQGLNhJ8ZQ2IUA/profile-displaybackgroundimage-shrink_200_800/0/1659870018856?e=1666828800&v=beta&t=xZMOhlcCFW_k5BYHxaaNiublEsYGrB-Y8ua-gLQ57HA)
 ### Hi there 👋, I am Hasan Ali<hr/>
-A software engineer, creative coder who specializes in full stack web development. I love to solve real world problems. I have completed some projects for getting  good job. I am passionate web developer. I love to learn and share my knowledge with others. I can take any challenge for learning new thing. I am ready to start working on your project. Client satisfaction is my best priority.
+A software engineer, creative coder who specializes in full stack web development. I love to solve real world problems. I have completed some projects for getting a  good job. I am passionate web developer. I love to learn and share my knowledge with others. I can take any challenge for learning new thing. I am ready to start working on your project. Client satisfaction is my best priority.
 ### Skills & Experience<hr/>
 ✔ Javascript<br>
 ✔ Nodejs<br>
