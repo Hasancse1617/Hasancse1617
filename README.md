@@ -1,7 +1,7 @@
 ![I am passionate full stack web developer](https://media-exp1.licdn.com/dms/image/C4E16AQGLNhJ8ZQ2IUA/profile-displaybackgroundimage-shrink_200_800/0/1659870018856?e=1666828800&v=beta&t=xZMOhlcCFW_k5BYHxaaNiublEsYGrB-Y8ua-gLQ57HA)
 <h1 align="center">Hi 👋, I'm Hasan Ali</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="500" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasancse1617&label=Profile%20views&color=0e75b6&style=flat" alt="hasancse1617" /> </p>
 
 - 🔭 I’m currently working on **resultProcessing**
