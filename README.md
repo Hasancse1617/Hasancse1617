@@ -1,4 +1,4 @@
-![I am passionate full stack web developer](https://media-exp1.licdn.com/dms/image/C4E16AQGLNhJ8ZQ2IUA/profile-displaybackgroundimage-shrink_200_800/0/1659870018856?e=1666828800&v=beta&t=xZMOhlcCFW_k5BYHxaaNiublEsYGrB-Y8ua-gLQ57HA)
+<img width="100%" height="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjA5yrSb6GYEWW9JRWanXjSgpcAJLJkula98P9JXmt5s5q5zKzfMoBqYOQ82T_7i0OfQ&usqp=CAU"/>
 <h1 align="center">Hi 👋, I'm Hasan Ali</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
