@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasancse1617&label=Profile%20views&color=0e75b6&style=flat" alt="hasancse1617" /> </p>
 
-- 🔭 I’m currently working on **resultProcessing**
-
-- 🌱 I’m currently learning **Nest js, Next js**
+- 🔭 I’m currently working on **Codewars javascript problem solve: https://www.codewars.com/users/Hasan1617**
 
 - 💬 Ask me about **MERN Stack**
 
